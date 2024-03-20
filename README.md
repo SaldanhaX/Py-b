@@ -1,2 +1,2 @@
 # Py-b
-Lógicas e exercícios de Python
+Lógica e algorítmos em Python.
